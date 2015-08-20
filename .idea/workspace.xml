@@ -2,313 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d22ef341-ef87-45b9-8974-34e6cc897f42" name="Default" comment="">
-      <change type="DELETED" beforePath="C:\dev\git-repo\front-end-scaffolding\bower_components\backbone.babysitter\.bower.json" afterPath="" />
-      <change type="DELETED" beforePath="C:\dev\git-repo\front-end-scaffolding\bower_components\backbone.babysitter\CHANGELOG.md" afterPath="" />
-      <change type="DELETED" beforePath="C:\dev\git-repo\front-end-scaffolding\bower_components\backbone.babysitter\Gruntfile.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\dev\git-repo\front-end-scaffolding\bower_components\backbone.babysitter\LICENSE.md" afterPath="" />
-      <change type="DELETED" beforePath="C:\dev\git-repo\front-end-scaffolding\bower_components\backbone.babysitter\bower.json" afterPath="" />
-      <change type="DELETED" beforePath="C:\dev\git-repo\front-end-scaffolding\bower_components\backbone.babysitter\component.json" afterPath="" />
-      <change type="DELETED" beforePath="C:\dev\git-repo\front-end-scaffolding\bower_components\backbone.babysitter\lib\backbone.babysitter.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\dev\git-repo\front-end-scaffolding\bower_components\backbone.babysitter\lib\backbone.babysitter.map" afterPath="" />
-      <change type="DELETED" beforePath="C:\dev\git-repo\front-end-scaffolding\bower_components\backbone.babysitter\lib\backbone.babysitter.min.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\dev\git-repo\front-end-scaffolding\bower_components\backbone.babysitter\package.json" afterPath="" />
-      <change type="DELETED" beforePath="C:\dev\git-repo\front-end-scaffolding\bower_components\backbone.babysitter\public\javascripts\backbone.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\dev\git-repo\front-end-scaffolding\bower_components\backbone.babysitter\public\javascripts\jquery.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\dev\git-repo\front-end-scaffolding\bower_components\backbone.babysitter\public\javascripts\json2.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\dev\git-repo\front-end-scaffolding\bower_components\backbone.babysitter\public\javascripts\underscore.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\dev\git-repo\front-end-scaffolding\bower_components\backbone.babysitter\readme.md" afterPath="" />
-      <change type="DELETED" beforePath="C:\dev\git-repo\front-end-scaffolding\bower_components\backbone.babysitter\reports\coverage.json" afterPath="" />
-      <change type="DELETED" beforePath="C:\dev\git-repo\front-end-scaffolding\bower_components\backbone.babysitter\reports\coverage\index.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\dev\git-repo\front-end-scaffolding\bower_components\backbone.babysitter\reports\coverage\prettify.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\dev\git-repo\front-end-scaffolding\bower_components\backbone.babysitter\reports\coverage\prettify.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\dev\git-repo\front-end-scaffolding\bower_components\backbone.babysitter\reports\coverage\src\amd.js.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\dev\git-repo\front-end-scaffolding\bower_components\backbone.babysitter\reports\coverage\src\childviewcontainer.js.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\dev\git-repo\front-end-scaffolding\bower_components\backbone.babysitter\reports\coverage\src\index.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\dev\git-repo\front-end-scaffolding\bower_components\backbone.babysitter\spec\javascripts\childviewContainer.spec.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\dev\git-repo\front-end-scaffolding\bower_components\backbone.babysitter\spec\javascripts\helpers\jasmineMatchers.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\dev\git-repo\front-end-scaffolding\bower_components\backbone.babysitter\src\build\backbone.babysitter.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\dev\git-repo\front-end-scaffolding\bower_components\backbone.babysitter\src\childviewcontainer.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\dev\git-repo\front-end-scaffolding\bower_components\backbone.wreqr\.bower.json" afterPath="" />
-      <change type="DELETED" beforePath="C:\dev\git-repo\front-end-scaffolding\bower_components\backbone.wreqr\CHANGELOG.md" afterPath="" />
-      <change type="DELETED" beforePath="C:\dev\git-repo\front-end-scaffolding\bower_components\backbone.wreqr\Gruntfile.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\dev\git-repo\front-end-scaffolding\bower_components\backbone.wreqr\LICENSE.md" afterPath="" />
-      <change type="DELETED" beforePath="C:\dev\git-repo\front-end-scaffolding\bower_components\backbone.wreqr\bower.json" afterPath="" />
-      <change type="DELETED" beforePath="C:\dev\git-repo\front-end-scaffolding\bower_components\backbone.wreqr\component.json" afterPath="" />
-      <change type="DELETED" beforePath="C:\dev\git-repo\front-end-scaffolding\bower_components\backbone.wreqr\lib\backbone.wreqr.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\dev\git-repo\front-end-scaffolding\bower_components\backbone.wreqr\lib\backbone.wreqr.map" afterPath="" />
-      <change type="DELETED" beforePath="C:\dev\git-repo\front-end-scaffolding\bower_components\backbone.wreqr\lib\backbone.wreqr.min.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\dev\git-repo\front-end-scaffolding\bower_components\backbone.wreqr\package.json" afterPath="" />
-      <change type="DELETED" beforePath="C:\dev\git-repo\front-end-scaffolding\bower_components\backbone.wreqr\public\javascripts\backbone.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\dev\git-repo\front-end-scaffolding\bower_components\backbone.wreqr\public\javascripts\jquery.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\dev\git-repo\front-end-scaffolding\bower_components\backbone.wreqr\public\javascripts\json2.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\dev\git-repo\front-end-scaffolding\bower_components\backbone.wreqr\public\javascripts\underscore.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\dev\git-repo\front-end-scaffolding\bower_components\backbone.wreqr\readme.md" afterPath="" />
-      <change type="DELETED" beforePath="C:\dev\git-repo\front-end-scaffolding\bower_components\backbone.wreqr\reports\coverage.json" afterPath="" />
-      <change type="DELETED" beforePath="C:\dev\git-repo\front-end-scaffolding\bower_components\backbone.wreqr\reports\coverage\index.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\dev\git-repo\front-end-scaffolding\bower_components\backbone.wreqr\reports\coverage\prettify.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\dev\git-repo\front-end-scaffolding\bower_components\backbone.wreqr\reports\coverage\prettify.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\dev\git-repo\front-end-scaffolding\bower_components\backbone.wreqr\reports\coverage\spec\javascripts\support\index.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\dev\git-repo\front-end-scaffolding\bower_components\backbone.wreqr\reports\coverage\spec\javascripts\support\wreqrHelper.js.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\dev\git-repo\front-end-scaffolding\bower_components\backbone.wreqr\reports\coverage\src\index.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\dev\git-repo\front-end-scaffolding\bower_components\backbone.wreqr\reports\coverage\src\wreqr.channel.js.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\dev\git-repo\front-end-scaffolding\bower_components\backbone.wreqr\reports\coverage\src\wreqr.commandStorage.js.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\dev\git-repo\front-end-scaffolding\bower_components\backbone.wreqr\reports\coverage\src\wreqr.commands.js.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\dev\git-repo\front-end-scaffolding\bower_components\backbone.wreqr\reports\coverage\src\wreqr.eventaggregator.js.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\dev\git-repo\front-end-scaffolding\bower_components\backbone.wreqr\reports\coverage\src\wreqr.handlers.js.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\dev\git-repo\front-end-scaffolding\bower_components\backbone.wreqr\reports\coverage\src\wreqr.js.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\dev\git-repo\front-end-scaffolding\bower_components\backbone.wreqr\reports\coverage\src\wreqr.radio.js.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\dev\git-repo\front-end-scaffolding\bower_components\backbone.wreqr\reports\coverage\src\wreqr.requestresponse.js.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\dev\git-repo\front-end-scaffolding\bower_components\backbone.wreqr\spec\javascripts\channel\connect-commands.spec.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\dev\git-repo\front-end-scaffolding\bower_components\backbone.wreqr\spec\javascripts\channel\connect-events.spec.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\dev\git-repo\front-end-scaffolding\bower_components\backbone.wreqr\spec\javascripts\channel\connect-requests.spec.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\dev\git-repo\front-end-scaffolding\bower_components\backbone.wreqr\spec\javascripts\channel\create.spec.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\dev\git-repo\front-end-scaffolding\bower_components\backbone.wreqr\spec\javascripts\channel\reset.spec.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\dev\git-repo\front-end-scaffolding\bower_components\backbone.wreqr\spec\javascripts\commandStorage.custom.spec.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\dev\git-repo\front-end-scaffolding\bower_components\backbone.wreqr\spec\javascripts\commandStorage.spec.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\dev\git-repo\front-end-scaffolding\bower_components\backbone.wreqr\spec\javascripts\commands.spec.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\dev\git-repo\front-end-scaffolding\bower_components\backbone.wreqr\spec\javascripts\eventaggregator.spec.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\dev\git-repo\front-end-scaffolding\bower_components\backbone.wreqr\spec\javascripts\handlers.setFromHash.spec.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\dev\git-repo\front-end-scaffolding\bower_components\backbone.wreqr\spec\javascripts\handlers.spec.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\dev\git-repo\front-end-scaffolding\bower_components\backbone.wreqr\spec\javascripts\helpers\jasmineMatchers.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\dev\git-repo\front-end-scaffolding\bower_components\backbone.wreqr\spec\javascripts\radio\channel.spec.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\dev\git-repo\front-end-scaffolding\bower_components\backbone.wreqr\spec\javascripts\radio\commands.spec.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\dev\git-repo\front-end-scaffolding\bower_components\backbone.wreqr\spec\javascripts\radio\reqres.spec.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\dev\git-repo\front-end-scaffolding\bower_components\backbone.wreqr\spec\javascripts\radio\vent.spec.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\dev\git-repo\front-end-scaffolding\bower_components\backbone.wreqr\spec\javascripts\requestResponse.spec.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\dev\git-repo\front-end-scaffolding\bower_components\backbone.wreqr\spec\javascripts\support\wreqrHelper.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\dev\git-repo\front-end-scaffolding\bower_components\backbone.wreqr\src\build\backbone.wreqr.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\dev\git-repo\front-end-scaffolding\bower_components\backbone.wreqr\src\wreqr.channel.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\dev\git-repo\front-end-scaffolding\bower_components\backbone.wreqr\src\wreqr.commandStorage.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\dev\git-repo\front-end-scaffolding\bower_components\backbone.wreqr\src\wreqr.commands.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\dev\git-repo\front-end-scaffolding\bower_components\backbone.wreqr\src\wreqr.eventaggregator.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\dev\git-repo\front-end-scaffolding\bower_components\backbone.wreqr\src\wreqr.handlers.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\dev\git-repo\front-end-scaffolding\bower_components\backbone.wreqr\src\wreqr.radio.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\dev\git-repo\front-end-scaffolding\bower_components\backbone.wreqr\src\wreqr.requestresponse.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\dev\git-repo\front-end-scaffolding\bower_components\backbone\.bower.json" afterPath="" />
-      <change type="DELETED" beforePath="C:\dev\git-repo\front-end-scaffolding\bower_components\backbone\.gitignore" afterPath="" />
-      <change type="DELETED" beforePath="C:\dev\git-repo\front-end-scaffolding\bower_components\backbone\.npmignore" afterPath="" />
-      <change type="DELETED" beforePath="C:\dev\git-repo\front-end-scaffolding\bower_components\backbone\CNAME" afterPath="" />
-      <change type="DELETED" beforePath="C:\dev\git-repo\front-end-scaffolding\bower_components\backbone\CONTRIBUTING.md" afterPath="" />
-      <change type="DELETED" beforePath="C:\dev\git-repo\front-end-scaffolding\bower_components\backbone\LICENSE" afterPath="" />
-      <change type="DELETED" beforePath="C:\dev\git-repo\front-end-scaffolding\bower_components\backbone\README.md" afterPath="" />
-      <change type="DELETED" beforePath="C:\dev\git-repo\front-end-scaffolding\bower_components\backbone\backbone.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\dev\git-repo\front-end-scaffolding\bower_components\backbone\bower.json" afterPath="" />
-      <change type="DELETED" beforePath="C:\dev\git-repo\front-end-scaffolding\bower_components\backbone\component.json" afterPath="" />
-      <change type="DELETED" beforePath="C:\dev\git-repo\front-end-scaffolding\bower_components\backbone\index.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\dev\git-repo\front-end-scaffolding\bower_components\backbone\index.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\dev\git-repo\front-end-scaffolding\bower_components\backbone\package.json" afterPath="" />
-      <change type="DELETED" beforePath="C:\dev\git-repo\front-end-scaffolding\bower_components\handlebars\.bower.json" afterPath="" />
-      <change type="DELETED" beforePath="C:\dev\git-repo\front-end-scaffolding\bower_components\handlebars\.gitignore" afterPath="" />
-      <change type="DELETED" beforePath="C:\dev\git-repo\front-end-scaffolding\bower_components\handlebars\README.md" afterPath="" />
-      <change type="DELETED" beforePath="C:\dev\git-repo\front-end-scaffolding\bower_components\handlebars\bower.json" afterPath="" />
-      <change type="DELETED" beforePath="C:\dev\git-repo\front-end-scaffolding\bower_components\handlebars\component.json" afterPath="" />
-      <change type="DELETED" beforePath="C:\dev\git-repo\front-end-scaffolding\bower_components\handlebars\composer.json" afterPath="" />
-      <change type="DELETED" beforePath="C:\dev\git-repo\front-end-scaffolding\bower_components\handlebars\handlebars-source.gemspec" afterPath="" />
-      <change type="DELETED" beforePath="C:\dev\git-repo\front-end-scaffolding\bower_components\handlebars\handlebars.amd.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\dev\git-repo\front-end-scaffolding\bower_components\handlebars\handlebars.amd.min.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\dev\git-repo\front-end-scaffolding\bower_components\handlebars\handlebars.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\dev\git-repo\front-end-scaffolding\bower_components\handlebars\handlebars.js.nuspec" afterPath="" />
-      <change type="DELETED" beforePath="C:\dev\git-repo\front-end-scaffolding\bower_components\handlebars\handlebars.min.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\dev\git-repo\front-end-scaffolding\bower_components\handlebars\handlebars.runtime.amd.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\dev\git-repo\front-end-scaffolding\bower_components\handlebars\handlebars.runtime.amd.min.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\dev\git-repo\front-end-scaffolding\bower_components\handlebars\handlebars.runtime.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\dev\git-repo\front-end-scaffolding\bower_components\handlebars\handlebars.runtime.min.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\dev\git-repo\front-end-scaffolding\bower_components\handlebars\lib\handlebars\source.rb" afterPath="" />
-      <change type="DELETED" beforePath="C:\dev\git-repo\front-end-scaffolding\bower_components\jquery\.bower.json" afterPath="" />
-      <change type="DELETED" beforePath="C:\dev\git-repo\front-end-scaffolding\bower_components\jquery\MIT-LICENSE.txt" afterPath="" />
-      <change type="DELETED" beforePath="C:\dev\git-repo\front-end-scaffolding\bower_components\jquery\bower.json" afterPath="" />
-      <change type="DELETED" beforePath="C:\dev\git-repo\front-end-scaffolding\bower_components\jquery\dist\jquery.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\dev\git-repo\front-end-scaffolding\bower_components\jquery\dist\jquery.min.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\dev\git-repo\front-end-scaffolding\bower_components\jquery\dist\jquery.min.map" afterPath="" />
-      <change type="DELETED" beforePath="C:\dev\git-repo\front-end-scaffolding\bower_components\jquery\src\ajax.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\dev\git-repo\front-end-scaffolding\bower_components\jquery\src\ajax\jsonp.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\dev\git-repo\front-end-scaffolding\bower_components\jquery\src\ajax\load.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\dev\git-repo\front-end-scaffolding\bower_components\jquery\src\ajax\parseJSON.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\dev\git-repo\front-end-scaffolding\bower_components\jquery\src\ajax\parseXML.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\dev\git-repo\front-end-scaffolding\bower_components\jquery\src\ajax\script.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\dev\git-repo\front-end-scaffolding\bower_components\jquery\src\ajax\var\nonce.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\dev\git-repo\front-end-scaffolding\bower_components\jquery\src\ajax\var\rquery.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\dev\git-repo\front-end-scaffolding\bower_components\jquery\src\ajax\xhr.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\dev\git-repo\front-end-scaffolding\bower_components\jquery\src\attributes.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\dev\git-repo\front-end-scaffolding\bower_components\jquery\src\attributes\attr.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\dev\git-repo\front-end-scaffolding\bower_components\jquery\src\attributes\classes.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\dev\git-repo\front-end-scaffolding\bower_components\jquery\src\attributes\prop.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\dev\git-repo\front-end-scaffolding\bower_components\jquery\src\attributes\support.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\dev\git-repo\front-end-scaffolding\bower_components\jquery\src\attributes\val.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\dev\git-repo\front-end-scaffolding\bower_components\jquery\src\callbacks.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\dev\git-repo\front-end-scaffolding\bower_components\jquery\src\core.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\dev\git-repo\front-end-scaffolding\bower_components\jquery\src\core\access.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\dev\git-repo\front-end-scaffolding\bower_components\jquery\src\core\init.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\dev\git-repo\front-end-scaffolding\bower_components\jquery\src\core\parseHTML.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\dev\git-repo\front-end-scaffolding\bower_components\jquery\src\core\ready.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\dev\git-repo\front-end-scaffolding\bower_components\jquery\src\core\var\rsingleTag.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\dev\git-repo\front-end-scaffolding\bower_components\jquery\src\css.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\dev\git-repo\front-end-scaffolding\bower_components\jquery\src\css\addGetHookIf.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\dev\git-repo\front-end-scaffolding\bower_components\jquery\src\css\curCSS.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\dev\git-repo\front-end-scaffolding\bower_components\jquery\src\css\defaultDisplay.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\dev\git-repo\front-end-scaffolding\bower_components\jquery\src\css\hiddenVisibleSelectors.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\dev\git-repo\front-end-scaffolding\bower_components\jquery\src\css\support.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\dev\git-repo\front-end-scaffolding\bower_components\jquery\src\css\swap.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\dev\git-repo\front-end-scaffolding\bower_components\jquery\src\css\var\cssExpand.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\dev\git-repo\front-end-scaffolding\bower_components\jquery\src\css\var\getStyles.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\dev\git-repo\front-end-scaffolding\bower_components\jquery\src\css\var\isHidden.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\dev\git-repo\front-end-scaffolding\bower_components\jquery\src\css\var\rmargin.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\dev\git-repo\front-end-scaffolding\bower_components\jquery\src\css\var\rnumnonpx.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\dev\git-repo\front-end-scaffolding\bower_components\jquery\src\data.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\dev\git-repo\front-end-scaffolding\bower_components\jquery\src\data\Data.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\dev\git-repo\front-end-scaffolding\bower_components\jquery\src\data\accepts.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\dev\git-repo\front-end-scaffolding\bower_components\jquery\src\data\var\data_priv.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\dev\git-repo\front-end-scaffolding\bower_components\jquery\src\data\var\data_user.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\dev\git-repo\front-end-scaffolding\bower_components\jquery\src\deferred.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\dev\git-repo\front-end-scaffolding\bower_components\jquery\src\deprecated.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\dev\git-repo\front-end-scaffolding\bower_components\jquery\src\dimensions.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\dev\git-repo\front-end-scaffolding\bower_components\jquery\src\effects.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\dev\git-repo\front-end-scaffolding\bower_components\jquery\src\effects\Tween.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\dev\git-repo\front-end-scaffolding\bower_components\jquery\src\effects\animatedSelector.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\dev\git-repo\front-end-scaffolding\bower_components\jquery\src\event.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\dev\git-repo\front-end-scaffolding\bower_components\jquery\src\event\alias.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\dev\git-repo\front-end-scaffolding\bower_components\jquery\src\event\support.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\dev\git-repo\front-end-scaffolding\bower_components\jquery\src\exports\amd.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\dev\git-repo\front-end-scaffolding\bower_components\jquery\src\exports\global.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\dev\git-repo\front-end-scaffolding\bower_components\jquery\src\intro.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\dev\git-repo\front-end-scaffolding\bower_components\jquery\src\jquery.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\dev\git-repo\front-end-scaffolding\bower_components\jquery\src\manipulation.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\dev\git-repo\front-end-scaffolding\bower_components\jquery\src\manipulation\_evalUrl.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\dev\git-repo\front-end-scaffolding\bower_components\jquery\src\manipulation\support.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\dev\git-repo\front-end-scaffolding\bower_components\jquery\src\manipulation\var\rcheckableType.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\dev\git-repo\front-end-scaffolding\bower_components\jquery\src\offset.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\dev\git-repo\front-end-scaffolding\bower_components\jquery\src\outro.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\dev\git-repo\front-end-scaffolding\bower_components\jquery\src\queue.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\dev\git-repo\front-end-scaffolding\bower_components\jquery\src\queue\delay.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\dev\git-repo\front-end-scaffolding\bower_components\jquery\src\selector-native.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\dev\git-repo\front-end-scaffolding\bower_components\jquery\src\selector-sizzle.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\dev\git-repo\front-end-scaffolding\bower_components\jquery\src\selector.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\dev\git-repo\front-end-scaffolding\bower_components\jquery\src\serialize.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\dev\git-repo\front-end-scaffolding\bower_components\jquery\src\sizzle\dist\sizzle.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\dev\git-repo\front-end-scaffolding\bower_components\jquery\src\sizzle\dist\sizzle.min.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\dev\git-repo\front-end-scaffolding\bower_components\jquery\src\sizzle\dist\sizzle.min.map" afterPath="" />
-      <change type="DELETED" beforePath="C:\dev\git-repo\front-end-scaffolding\bower_components\jquery\src\traversing.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\dev\git-repo\front-end-scaffolding\bower_components\jquery\src\traversing\findFilter.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\dev\git-repo\front-end-scaffolding\bower_components\jquery\src\traversing\var\rneedsContext.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\dev\git-repo\front-end-scaffolding\bower_components\jquery\src\var\arr.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\dev\git-repo\front-end-scaffolding\bower_components\jquery\src\var\class2type.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\dev\git-repo\front-end-scaffolding\bower_components\jquery\src\var\concat.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\dev\git-repo\front-end-scaffolding\bower_components\jquery\src\var\hasOwn.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\dev\git-repo\front-end-scaffolding\bower_components\jquery\src\var\indexOf.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\dev\git-repo\front-end-scaffolding\bower_components\jquery\src\var\pnum.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\dev\git-repo\front-end-scaffolding\bower_components\jquery\src\var\push.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\dev\git-repo\front-end-scaffolding\bower_components\jquery\src\var\rnotwhite.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\dev\git-repo\front-end-scaffolding\bower_components\jquery\src\var\slice.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\dev\git-repo\front-end-scaffolding\bower_components\jquery\src\var\strundefined.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\dev\git-repo\front-end-scaffolding\bower_components\jquery\src\var\support.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\dev\git-repo\front-end-scaffolding\bower_components\jquery\src\var\toString.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\dev\git-repo\front-end-scaffolding\bower_components\jquery\src\wrap.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\dev\git-repo\front-end-scaffolding\bower_components\json2\.bower.json" afterPath="" />
-      <change type="DELETED" beforePath="C:\dev\git-repo\front-end-scaffolding\bower_components\json2\README" afterPath="" />
-      <change type="DELETED" beforePath="C:\dev\git-repo\front-end-scaffolding\bower_components\json2\cycle.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\dev\git-repo\front-end-scaffolding\bower_components\json2\json.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\dev\git-repo\front-end-scaffolding\bower_components\json2\json2.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\dev\git-repo\front-end-scaffolding\bower_components\json2\json_parse.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\dev\git-repo\front-end-scaffolding\bower_components\json2\json_parse_state.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\dev\git-repo\front-end-scaffolding\bower_components\marionette\.bower.json" afterPath="" />
-      <change type="DELETED" beforePath="C:\dev\git-repo\front-end-scaffolding\bower_components\marionette\.jshintrc" afterPath="" />
-      <change type="DELETED" beforePath="C:\dev\git-repo\front-end-scaffolding\bower_components\marionette\.npmignore" afterPath="" />
-      <change type="DELETED" beforePath="C:\dev\git-repo\front-end-scaffolding\bower_components\marionette\bower.json" afterPath="" />
-      <change type="DELETED" beforePath="C:\dev\git-repo\front-end-scaffolding\bower_components\marionette\changelog.md" afterPath="" />
-      <change type="DELETED" beforePath="C:\dev\git-repo\front-end-scaffolding\bower_components\marionette\component.json" afterPath="" />
-      <change type="DELETED" beforePath="C:\dev\git-repo\front-end-scaffolding\bower_components\marionette\lib\backbone.marionette.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\dev\git-repo\front-end-scaffolding\bower_components\marionette\lib\backbone.marionette.map" afterPath="" />
-      <change type="DELETED" beforePath="C:\dev\git-repo\front-end-scaffolding\bower_components\marionette\lib\backbone.marionette.min.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\dev\git-repo\front-end-scaffolding\bower_components\marionette\lib\core\amd\backbone.marionette.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\dev\git-repo\front-end-scaffolding\bower_components\marionette\lib\core\amd\backbone.marionette.min.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\dev\git-repo\front-end-scaffolding\bower_components\marionette\lib\core\backbone.marionette.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\dev\git-repo\front-end-scaffolding\bower_components\marionette\lib\core\backbone.marionette.map" afterPath="" />
-      <change type="DELETED" beforePath="C:\dev\git-repo\front-end-scaffolding\bower_components\marionette\lib\core\backbone.marionette.min.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\dev\git-repo\front-end-scaffolding\bower_components\marionette\license.txt" afterPath="" />
-      <change type="DELETED" beforePath="C:\dev\git-repo\front-end-scaffolding\bower_components\marionette\readme.md" afterPath="" />
-      <change type="DELETED" beforePath="C:\dev\git-repo\front-end-scaffolding\bower_components\marionette\src\marionette.application.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\dev\git-repo\front-end-scaffolding\bower_components\marionette\src\marionette.approuter.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\dev\git-repo\front-end-scaffolding\bower_components\marionette\src\marionette.behavior.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\dev\git-repo\front-end-scaffolding\bower_components\marionette\src\marionette.behaviors.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\dev\git-repo\front-end-scaffolding\bower_components\marionette\src\marionette.bindEntityEvents.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\dev\git-repo\front-end-scaffolding\bower_components\marionette\src\marionette.callbacks.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\dev\git-repo\front-end-scaffolding\bower_components\marionette\src\marionette.collectionview.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\dev\git-repo\front-end-scaffolding\bower_components\marionette\src\marionette.compositeview.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\dev\git-repo\front-end-scaffolding\bower_components\marionette\src\marionette.controller.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\dev\git-repo\front-end-scaffolding\bower_components\marionette\src\marionette.domRefresh.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\dev\git-repo\front-end-scaffolding\bower_components\marionette\src\marionette.helpers.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\dev\git-repo\front-end-scaffolding\bower_components\marionette\src\marionette.itemview.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\dev\git-repo\front-end-scaffolding\bower_components\marionette\src\marionette.layout.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\dev\git-repo\front-end-scaffolding\bower_components\marionette\src\marionette.module.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\dev\git-repo\front-end-scaffolding\bower_components\marionette\src\marionette.region.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\dev\git-repo\front-end-scaffolding\bower_components\marionette\src\marionette.regionManager.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\dev\git-repo\front-end-scaffolding\bower_components\marionette\src\marionette.renderer.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\dev\git-repo\front-end-scaffolding\bower_components\marionette\src\marionette.templatecache.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\dev\git-repo\front-end-scaffolding\bower_components\marionette\src\marionette.triggermethod.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\dev\git-repo\front-end-scaffolding\bower_components\marionette\src\marionette.view.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\dev\git-repo\front-end-scaffolding\bower_components\marionette\upgradeGuide.md" afterPath="" />
-      <change type="DELETED" beforePath="C:\dev\git-repo\front-end-scaffolding\bower_components\require-handlebars-plugin\.bower.json" afterPath="" />
-      <change type="DELETED" beforePath="C:\dev\git-repo\front-end-scaffolding\bower_components\require-handlebars-plugin\.gitignore" afterPath="" />
-      <change type="DELETED" beforePath="C:\dev\git-repo\front-end-scaffolding\bower_components\require-handlebars-plugin\README.md" afterPath="" />
-      <change type="DELETED" beforePath="C:\dev\git-repo\front-end-scaffolding\bower_components\require-handlebars-plugin\build.sh" afterPath="" />
-      <change type="DELETED" beforePath="C:\dev\git-repo\front-end-scaffolding\bower_components\require-handlebars-plugin\demo-build.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\dev\git-repo\front-end-scaffolding\bower_components\require-handlebars-plugin\demo.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\dev\git-repo\front-end-scaffolding\bower_components\require-handlebars-plugin\demo\app.build.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\dev\git-repo\front-end-scaffolding\bower_components\require-handlebars-plugin\demo\main.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\dev\git-repo\front-end-scaffolding\bower_components\require-handlebars-plugin\demo\require.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\dev\git-repo\front-end-scaffolding\bower_components\require-handlebars-plugin\demo\styles\one.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\dev\git-repo\front-end-scaffolding\bower_components\require-handlebars-plugin\demo\styles\two.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\dev\git-repo\front-end-scaffolding\bower_components\require-handlebars-plugin\demo\template\coolPartial.hbs" afterPath="" />
-      <change type="DELETED" beforePath="C:\dev\git-repo\front-end-scaffolding\bower_components\require-handlebars-plugin\demo\template\helpers\all.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\dev\git-repo\front-end-scaffolding\bower_components\require-handlebars-plugin\demo\template\helpers\myhelper.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\dev\git-repo\front-end-scaffolding\bower_components\require-handlebars-plugin\demo\template\helpers\yeller.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\dev\git-repo\front-end-scaffolding\bower_components\require-handlebars-plugin\demo\template\i18n\en_ca.json" afterPath="" />
-      <change type="DELETED" beforePath="C:\dev\git-repo\front-end-scaffolding\bower_components\require-handlebars-plugin\demo\template\i18n\en_us.json" afterPath="" />
-      <change type="DELETED" beforePath="C:\dev\git-repo\front-end-scaffolding\bower_components\require-handlebars-plugin\demo\template\one.hbs" afterPath="" />
-      <change type="DELETED" beforePath="C:\dev\git-repo\front-end-scaffolding\bower_components\require-handlebars-plugin\hbs.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\dev\git-repo\front-end-scaffolding\bower_components\require-handlebars-plugin\hbs\handlebars.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\dev\git-repo\front-end-scaffolding\bower_components\require-handlebars-plugin\hbs\handlebars.runtime.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\dev\git-repo\front-end-scaffolding\bower_components\require-handlebars-plugin\hbs\i18nprecompile.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\dev\git-repo\front-end-scaffolding\bower_components\require-handlebars-plugin\hbs\json2.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\dev\git-repo\front-end-scaffolding\bower_components\require-handlebars-plugin\hbs\underscore.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\dev\git-repo\front-end-scaffolding\bower_components\require-handlebars-plugin\karma.conf.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\dev\git-repo\front-end-scaffolding\bower_components\require-handlebars-plugin\package.json" afterPath="" />
-      <change type="DELETED" beforePath="C:\dev\git-repo\front-end-scaffolding\bower_components\require-handlebars-plugin\r.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\dev\git-repo\front-end-scaffolding\bower_components\require-handlebars-plugin\tests\spec\main.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\dev\git-repo\front-end-scaffolding\bower_components\require-handlebars-plugin\tests\spec\multiline.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\dev\git-repo\front-end-scaffolding\bower_components\require-handlebars-plugin\tests\spec\partial.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\dev\git-repo\front-end-scaffolding\bower_components\require-handlebars-plugin\tests\spec\partial_loaded.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\dev\git-repo\front-end-scaffolding\bower_components\require-handlebars-plugin\tests\spec\partial_subdir.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\dev\git-repo\front-end-scaffolding\bower_components\require-handlebars-plugin\tests\spec\simple.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\dev\git-repo\front-end-scaffolding\bower_components\require-handlebars-plugin\tests\templates\_partial.hbs" afterPath="" />
-      <change type="DELETED" beforePath="C:\dev\git-repo\front-end-scaffolding\bower_components\require-handlebars-plugin\tests\templates\_partial_loaded.hbs" afterPath="" />
-      <change type="DELETED" beforePath="C:\dev\git-repo\front-end-scaffolding\bower_components\require-handlebars-plugin\tests\templates\multiline.hbs" afterPath="" />
-      <change type="DELETED" beforePath="C:\dev\git-repo\front-end-scaffolding\bower_components\require-handlebars-plugin\tests\templates\partial.hbs" afterPath="" />
-      <change type="DELETED" beforePath="C:\dev\git-repo\front-end-scaffolding\bower_components\require-handlebars-plugin\tests\templates\partial_fullpath.hbs" afterPath="" />
-      <change type="DELETED" beforePath="C:\dev\git-repo\front-end-scaffolding\bower_components\require-handlebars-plugin\tests\templates\partial_loaded.hbs" afterPath="" />
-      <change type="DELETED" beforePath="C:\dev\git-repo\front-end-scaffolding\bower_components\require-handlebars-plugin\tests\templates\partial_subdir.hbs" afterPath="" />
-      <change type="DELETED" beforePath="C:\dev\git-repo\front-end-scaffolding\bower_components\require-handlebars-plugin\tests\templates\partials\_simple.hbs" afterPath="" />
-      <change type="DELETED" beforePath="C:\dev\git-repo\front-end-scaffolding\bower_components\require-handlebars-plugin\tests\templates\simple.hbs" afterPath="" />
-      <change type="DELETED" beforePath="C:\dev\git-repo\front-end-scaffolding\bower_components\require-handlebars-plugin\tests\templates\subdir\parent.hbs" afterPath="" />
-      <change type="DELETED" beforePath="C:\dev\git-repo\front-end-scaffolding\bower_components\require-handlebars-plugin\tests\test-main.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\dev\git-repo\front-end-scaffolding\bower_components\require-handlebars-plugin\tests\test.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\dev\git-repo\front-end-scaffolding\bower_components\requirejs\.bower.json" afterPath="" />
-      <change type="DELETED" beforePath="C:\dev\git-repo\front-end-scaffolding\bower_components\requirejs\README.md" afterPath="" />
-      <change type="DELETED" beforePath="C:\dev\git-repo\front-end-scaffolding\bower_components\requirejs\bower.json" afterPath="" />
-      <change type="DELETED" beforePath="C:\dev\git-repo\front-end-scaffolding\bower_components\requirejs\require.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\dev\git-repo\front-end-scaffolding\bower_components\underscore\.bower.json" afterPath="" />
-      <change type="DELETED" beforePath="C:\dev\git-repo\front-end-scaffolding\bower_components\underscore\.editorconfig" afterPath="" />
-      <change type="DELETED" beforePath="C:\dev\git-repo\front-end-scaffolding\bower_components\underscore\.gitignore" afterPath="" />
-      <change type="DELETED" beforePath="C:\dev\git-repo\front-end-scaffolding\bower_components\underscore\LICENSE" afterPath="" />
-      <change type="DELETED" beforePath="C:\dev\git-repo\front-end-scaffolding\bower_components\underscore\README.md" afterPath="" />
-      <change type="DELETED" beforePath="C:\dev\git-repo\front-end-scaffolding\bower_components\underscore\bower.json" afterPath="" />
-      <change type="DELETED" beforePath="C:\dev\git-repo\front-end-scaffolding\bower_components\underscore\component.json" afterPath="" />
-      <change type="DELETED" beforePath="C:\dev\git-repo\front-end-scaffolding\bower_components\underscore\package.json" afterPath="" />
-      <change type="DELETED" beforePath="C:\dev\git-repo\front-end-scaffolding\bower_components\underscore\underscore.js" afterPath="" />
-      <change type="MOVED" beforePath="C:\dev\git-repo\front-end-scaffolding\js\main.js" afterPath="$PROJECT_DIR$/js/require.config.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bower.json" afterPath="$PROJECT_DIR$/bower.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="marionette-behavior.iws" />
@@ -333,27 +28,43 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-6.923077">
-              <caret line="10" column="68" selection-start-line="10" selection-start-column="68" selection-end-line="10" selection-end-column="68" />
+            <state vertical-scroll-proportion="-10.461538">
+              <caret line="16" column="7" selection-start-line="16" selection-start-column="7" selection-end-line="16" selection-end-column="7" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="main.index.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/js/main.index.js">
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="8" column="29" selection-start-line="8" selection-start-column="29" selection-end-line="8" selection-end-column="29" />
+            <state vertical-scroll-proportion="-1.2592592">
+              <caret line="2" column="21" selection-start-line="2" selection-start-column="21" selection-end-line="2" selection-end-column="21" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="require.config.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider editor-type-id="MultiMarkdownHtmlEditor">
+            <state />
+          </provider>
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.40402195">
+              <caret line="13" column="194" selection-start-line="13" selection-start-column="194" selection-end-line="13" selection-end-column="194" />
+              <folding />
+            </state>
+          </provider>
+          <provider editor-type-id="MultiMarkdownPreviewEditor">
+            <state />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="require.config.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/js/require.config.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.02616279">
+            <state vertical-scroll-proportion="0.0">
               <caret line="1" column="16" selection-start-line="1" selection-start-column="16" selection-end-line="1" selection-end-column="16" />
               <folding />
             </state>
@@ -363,18 +74,8 @@
       <file leaf-file-name="bower.json" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/bower.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-6.923077">
-              <caret line="10" column="65" selection-start-line="10" selection-start-column="65" selection-end-line="10" selection-end-column="65" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name=".bowerrc" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/.bowerrc">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-1.3846154">
-              <caret line="2" column="1" selection-start-line="2" selection-start-column="1" selection-end-line="2" selection-end-column="1" />
+            <state vertical-scroll-proportion="0.0">
+              <caret line="12" column="5" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
               <folding />
             </state>
           </provider>
@@ -419,6 +120,8 @@
         <option value="$PROJECT_DIR$/js/main.index.js" />
         <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/js/require.config.js" />
+        <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
   </component>
@@ -430,10 +133,10 @@
     <order />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-8" />
+    <option name="x" value="1912" />
     <option name="y" value="-8" />
     <option name="width" value="1936" />
-    <option name="height" value="1176" />
+    <option name="height" value="1056" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
     <entry key="Project Default">
@@ -483,6 +186,8 @@
       <sortByType />
     </navigator>
     <panes>
+      <pane id="Scope" />
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -517,8 +222,6 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -530,8 +233,24 @@
     <property name="FullScreen" value="false" />
     <property name="HbShouldOpenHtmlAsHb" value="" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="preferences.general" />
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode.HTML" />
     <property name="settings.editor.splitter.proportion" value="0.2" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth0" value="298" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatOrder0" value="0" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth1" value="298" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatOrder1" value="1" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth2" value="299" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatOrder2" value="2" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth3" value="973" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatOrder3" value="3" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth0" value="299" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeOrder0" value="0" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth1" value="297" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeOrder1" value="1" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth2" value="299" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeOrder2" value="2" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth3" value="973" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeOrder3" value="3" />
   </component>
   <component name="RunManager">
     <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
@@ -564,6 +283,12 @@
       <method />
     </configuration>
     <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <pass-parent-envs>true</pass-parent-envs>
+      <envs />
       <method />
     </configuration>
   </component>
@@ -601,17 +326,17 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1176" extended-state="6" />
+    <frame x="1912" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="false" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25237092" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3296501" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32814237" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.29735035" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.2965368" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -640,6 +365,108 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="1" column="7" selection-start-line="1" selection-start-column="7" selection-end-line="1" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider editor-type-id="MultiMarkdownHtmlEditor">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="MultiMarkdownPreviewEditor">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/require.config.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="1" column="16" selection-start-line="1" selection-start-column="16" selection-end-line="1" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bower.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="12" column="5" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sass/main.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="2" column="25" selection-start-line="2" selection-start-column="25" selection-end-line="2" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sass/partials/_general.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="1" column="36" selection-start-line="1" selection-start-column="36" selection-end-line="1" selection-end-column="36" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="10" column="68" selection-start-line="10" selection-start-column="68" selection-end-line="10" selection-end-column="68" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/require.config.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bower.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="10" column="45" selection-start-line="10" selection-start-column="45" selection-end-line="10" selection-end-column="45" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sass/main.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="2" column="25" selection-start-line="2" selection-start-column="25" selection-end-line="2" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sass/partials/_general.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="1" column="36" selection-start-line="1" selection-start-column="36" selection-end-line="1" selection-end-column="36" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -899,44 +726,50 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/.bowerrc">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-1.3846154">
-          <caret line="2" column="1" selection-start-line="2" selection-start-column="1" selection-end-line="2" selection-end-column="1" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/js/main.index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="8" column="29" selection-start-line="8" selection-start-column="29" selection-end-line="8" selection-end-column="29" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/bower.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-6.923077">
-          <caret line="10" column="65" selection-start-line="10" selection-start-column="65" selection-end-line="10" selection-end-column="65" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-6.923077">
-          <caret line="10" column="68" selection-start-line="10" selection-start-column="68" selection-end-line="10" selection-end-column="68" />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="12" column="5" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/js/require.config.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.02616279">
+        <state vertical-scroll-proportion="0.0">
           <caret line="1" column="16" selection-start-line="1" selection-start-column="16" selection-end-line="1" selection-end-column="16" />
           <folding />
         </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-10.461538">
+          <caret line="16" column="7" selection-start-line="16" selection-start-column="7" selection-end-line="16" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-1.2592592">
+          <caret line="2" column="21" selection-start-line="2" selection-start-column="21" selection-end-line="2" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider editor-type-id="MultiMarkdownHtmlEditor">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.40402195">
+          <caret line="13" column="194" selection-start-line="13" selection-start-column="194" selection-end-line="13" selection-end-column="194" />
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="MultiMarkdownPreviewEditor">
+        <state />
       </provider>
     </entry>
   </component>
