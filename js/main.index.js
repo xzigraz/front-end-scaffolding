@@ -1,7 +1,8 @@
 define(
 	[
 		'jquery',
-		'marionette'
+		'marionette',
+		'radio'
 	],
 	function () {
 		'use strict';

@@ -22,6 +22,13 @@ require.config({
 			exports: 'Marionette'
 		},
 
+		radio: {
+			deps: [
+				'backbone'
+			],
+			exports: 'radio'
+		},
+
 		handlebars: {
 			exports: 'Handlebars'
 		},
@@ -44,6 +51,7 @@ require.config({
 		'underscore': 'bower_components/underscore/underscore',
 		'handlebars': 'bower_components/handlebars/handlebars',
 		'marionette': 'bower_components/marionette/lib/backbone.marionette',
+		'radio': 'bower_components/backbone.radio/build/backbone.radio.min',
 		'hbs': 'bower_components/require-handlebars-plugin/hbs',
 		'json2': 'bower_components/json2/json2'
 	}
